@@ -1,4 +1,4 @@
-﻿# ModelScope Download Skill 使用说明（可发导师）
+﻿# ModelScope Download Skill 使用说明
 
 ## 1. 目标
 本 Skill 的 V1 目标是通过对话/命令完成四项核心能力：
