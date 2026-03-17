@@ -1,0 +1,4 @@
+interface:
+  display_name: "ModelScope Download"
+  short_description: "Search and download ModelScope models/datasets"
+  default_prompt: "Search models/datasets on ModelScope and download selected repos."

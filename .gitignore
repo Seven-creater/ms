@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+tmp/
+test-artifacts/
+
+downloads/
